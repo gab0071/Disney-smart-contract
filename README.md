@@ -1,5 +1,7 @@
 <h1>Awesome Disney smart contract</h1>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 <p>Hello, I hope you like my Disney smart contract!</p>
 <p>In this smart contract, simulate how it would be to create functions in solidity for a Disney park, where Disney can configure the available attractions, a menu for park visitors, even a token (which would be the "Tickes" of the park, we could even buy food , etc).</p>
 <p>It was fun because while I was doing it, I could imagine how great it would be to enjoy this smart contract in real life, how simple it would be and how it would improve our experience as a user, without counting the benefits that as a company should have, being able to know what they consume and what attractions your customers enjoy, etc.</p>
