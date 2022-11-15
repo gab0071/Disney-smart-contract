@@ -12,6 +12,10 @@
     <img src="https://img.shields.io/github/issues/gab0071/Disney-smart-contract" alt="Badge showing the total of project issues"/>
   </a>
   
+  <a href="https://www.npmjs.com/package/prettier-plugin-solidity" target="_blank">
+    <img src="https://img.shields.io/badge/prettier%20plugin%20solidity-1.0.0-pink.svg" alt="Badge showing the prettier plugin solidity version"/>
+  </a>
+  
   <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
     <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
   </a>
@@ -42,7 +46,6 @@ $ cd Disney-smart-contract
 $ yarn
 
 ``` 
-<p>Drop all necessary dependencies</p>
 <hr>
 
 <h2> Technologies / Built With </h2>
