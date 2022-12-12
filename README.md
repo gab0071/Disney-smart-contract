@@ -71,7 +71,7 @@ $ yarn
 <br>
 
 <p align="center">
-<a href="[https://www.linkedin.com/in/nataliebravo/](https://www.linkedin.com/in/blockchain-gabriela-mendes/)" target="_blank" >
+<a href="https://www.linkedin.com/in/blockchain-gabriela-mendes/" target="_blank" >
   <img alt="Linkedin - J.Gabriela" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
 </a>
 <a href="mailto:jeicarm7@gmail.com" target="_blank" >
@@ -79,4 +79,5 @@ $ yarn
 </a> 
 <br/>
   Made with ❤️ by <b>catellaTech</b>.
-<p/>  
+<p/>
+  
